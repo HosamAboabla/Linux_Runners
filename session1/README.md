@@ -8,7 +8,7 @@ Write a femto shell program in c language that echoes any command entered by the
 
 ## Compilation command
 ``` bash
-$ gcc gcc myFemtoShell.c -o myFemtoShell
+$ gcc myFemtoShell.c -o myFemtoShell
 ```
 
 ## Useful Commands
