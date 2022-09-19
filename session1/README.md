@@ -43,7 +43,7 @@ $ gcc myFemtoShell.c -o myFemtoShell
 * Vim
 
     - view file if exists or create new one
-    - Quit without saving use :!Q
+    - Quit without saving use :q!
     - Quit and save use :wq
     - Enter insert mode by pressing i
     - Exit insert mode by pressing Esc
