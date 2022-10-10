@@ -36,5 +36,5 @@ $ man 3 printf
 
 
 
-### [Recorded session](https://www.youtube.com/watch?v=UbQaZywRz5c) by eng. Reda Maher many thanks to him😍
+### [Recorded session]() by eng. Reda Maher many thanks to him😍
 

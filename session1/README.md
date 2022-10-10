@@ -81,5 +81,5 @@ $ gcc myFemtoShell.c -o myFemtoShell
 ![output.jpg](./output.jpg)
 
 
-### [Recorded session](https://www.youtube.com/watch?v=lvu_ls_dX_Y) by eng. Reda Maher many thanks to him😍
+### [Recorded session]() by eng. Reda Maher many thanks to him😍
 
